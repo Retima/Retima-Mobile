@@ -1,2 +1,2 @@
 # Tochly-Mobile
-Retima messenger for mobile devices.
+Tochly messenger for mobile devices.
